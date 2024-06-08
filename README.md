@@ -1,4 +1,4 @@
-# Olá, eu sou Caio Martins 👋
+# Hello, I'm Caio Martins
 
 I'm a DevOps engineer with experience in process automation, continuous integration/continuous delivery (CI/CD), and infrastructure management.
 
